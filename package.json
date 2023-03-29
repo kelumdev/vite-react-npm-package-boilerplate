@@ -1,7 +1,7 @@
 {
   "name": "vite-react-ts-button1",
   "private": false,
-  "version": "0.1.7",
+  "version": "0.2.1",
   "type": "module",
   "main": "dist/index.umd.js",
   "module": "dist/index.es.js",
